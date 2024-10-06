@@ -1,6 +1,7 @@
-![Your Image Description](https://github.com/Afssal/images/blob/main/_.gif)
 
-
+<div align="center">
+    <img src="https://github.com/Afssal/images/blob/main/_.gif" alt="welcome" width="300"/>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Afzal</h1>

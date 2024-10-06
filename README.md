@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afzal</h1>
 <h3 align="center">I'm an AI Engineer passionate about building intelligent systems and solving complex problems with machine learning and deep learning. I enjoy working on projects that push the boundaries of what AI can do.</h3>
 
-- 🌱 I’m currently learning **I'm currently diving into computer vision,Natural Language Processing.**
+- 🌱 **I'm currently diving into computer vision,Natural Language Processing.**
 
 - 📫 How to reach me **afzals0008@gmail.com**
 

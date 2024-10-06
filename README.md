@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/afzal-s-87ab56243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/afzal-s-87ab56243" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/afzal-s-87ab56243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzal-s-87ab56243" height="30" width="40" /></a>
 <a href="https://kaggle.com/afsal448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="afsal448" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iammgafsalk86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iammgafsalk86" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iammgafsalk86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iammgafsalk86" height="30" width="40" /></a>

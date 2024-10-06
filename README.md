@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://github.com/Afssal/images/blob/main/_.gif" alt="welcome" width="300"/>
+    <img src="https://github.com/Afssal/images/blob/main/_.gif" alt="welcome"/>
 </div>
 
 
